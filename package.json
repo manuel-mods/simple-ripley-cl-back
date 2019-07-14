@@ -6,7 +6,6 @@
   "author": "Manuel Bastias",
   "license": "ISC",
   "dependencies": {
-    "log": "./logger",
     "axios": "^0.18.0",
     "bluebird": "^3.5.5",
     "dotenv": "^5.0.1",
